@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://rekap-hkero.github.io/reo-2/sitemap.xml
